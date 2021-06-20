@@ -7,6 +7,10 @@
 
 ### 참고 서적
   + 밑바닥부터 시작하는 딥러닝 1
+  + https://github.com/WegraLee/deep-learning-from-scratch
+
+  + 밑바닥부터 시작하는 딥러닝 2
+  + https://github.com/WegraLee/deep-learning-from-scratch-2
 
 
 from tensorflow.keras.models import Sequential, Model <br/>

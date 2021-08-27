@@ -28,6 +28,8 @@
 ## 주의 사항
 
 #### keras의 batch 단위로 learning rate를 조절한다.
+tf.keras.experimental.CosineDecay                    -     experimental 이름의 의미처럼  언제든지 바뀔 수 있다.
+tf.keras.experimental.CosineDecayRestart 
 tf.keras.optimizers.LearningRateSchedule  
 예: model.compile(optimizer = Adame(learning_rate = CosineDecay()))  와 같이 copmile 호출 시 optimizer 인자로 입력  
 

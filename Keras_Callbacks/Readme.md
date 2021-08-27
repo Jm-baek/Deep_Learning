@@ -28,9 +28,9 @@
 ## 주의 사항
 
 #### keras의 batch 단위로 learning rate를 조절한다.
-tf.keras.optimizers.LearningRateSchedule
-예: model.compile(optimizer = Adame(learning_rate = CosineDecay()))  와 같이 copmile 호출 시 optimizer 인자로 입력
+tf.keras.optimizers.LearningRateSchedule  
+예: model.compile(optimizer = Adame(learning_rate = CosineDecay()))  와 같이 copmile 호출 시 optimizer 인자로 입력  
 
 #### keras의 epochs 단위로 learning rate를 조절한다.
-tf.keras.callbacks.LearningRateScheduler
-model.fit(callbacks=[LearningRateScheduler(schedule_function)] 와 같이 fit 호출 시 callbacks 인자로 입력
+tf.keras.callbacks.LearningRateScheduler  
+model.fit(callbacks=[LearningRateScheduler(schedule_function)] 와 같이 fit 호출 시 callbacks 인자로 입력  

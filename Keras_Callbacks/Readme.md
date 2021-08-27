@@ -12,9 +12,19 @@
 잘 사용하면 더 높은 성능을 찾을 수 있다. 
 
 ## Callback 종류
-### Learning rate 동적 조절
+### 1. Learning rate 동적 조절
 - LearningRateScheduler
 - ReduceLROnPlateau 
+
+### 2. EarlyStopping
+- ~ ing
+
+
+
+### 3. CheckPoints
+- ~ ing
+
+
 
 
 ## 주의 사항

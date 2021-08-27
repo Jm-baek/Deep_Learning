@@ -16,6 +16,9 @@
 - LearningRateScheduler
 - ReduceLROnPlateau 
 
+- Cosine Decay
+- Cosine Decay Restarts
+- 
 ### 2. EarlyStopping
 - ~ ing
 

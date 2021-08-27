@@ -17,14 +17,6 @@
 - ReduceLROnPlateau 
 
 
-### EarlyStopping
-
-
-
-### CheckPoint
-
-
-
 ## 주의 사항
 
 #### keras의 batch 단위로 learning rate를 조절한다.
